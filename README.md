@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @jksntn
-- 👀 I’m interested in tech and creative content
-- 🌱 I’m currently learning digital marketing and phyton 🐍
-- 📫 you can reach me on jksntn.work at gmail.com
+Saya adalah seorang bapak-bapak yang saat ini menetap di Bekasi. Punya ketertarikan atau passion yang cukup besar di bidang teknologi, seni dan isu sosial.
 
-<!---
-jksntn/jksntn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Saat ini saya sedang sibuk menata rumah tangga dan berusaha menjadi Ayah dan Suami yang baik. Juga sedang sibuk di beberapa project yang berkaitan dengan kreatif konten dan media sosial.
